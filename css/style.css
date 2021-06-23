@@ -1,0 +1,92 @@
+.body {
+	background-color: #F6F8F9;
+}
+/*header*/
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+.divlogo {
+	margin: 18px 0 0 20px;
+	display: inline-block;
+	vertical-align: top;
+}
+.logo {
+	font-size: 13px;
+	color: #FA6980;
+}
+.nav {
+	margin: 18px 0 0 92px;
+	display: inline-block;
+	vertical-align: top;
+}
+.nav-ul {
+	display: inline-block;
+}
+.list {
+	font-size: 11px;
+	margin-right: 27px;
+	display: inline-block;
+}
+.li-a {
+	color: #343638;
+}
+.acount {
+	display: inline-block;
+	margin-top: 11px;
+	vertical-align: top;
+}
+.active {
+	color: #202124;
+}
+/*section1*/
+.container-1 {
+	width: 1160px; 
+	margin: 0 auto;
+}
+.title1 {
+	margin: 75px 0 0 0;
+	color: #202124;
+	font-size: 24px;
+}
+.sec1-img {
+	background-color: #FFFFFF;
+	width: 360px;
+	height: 350px;
+	margin: 40px auto 0 auto;
+	position: relative;
+	display: inline-block;
+	}
+ 
+.img-text1 {	
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.text1 {
+	color: #A6ADB4;
+	font-size: 13;
+	position: absolute;
+	top: 246px;
+	left: 40px;
+}
+.time {
+	position: absolute;
+	left: 40px;
+	bottom: 40px;
+}
+.time-img {
+	display: inline-block;
+	vertical-align: top;
+}
+.time-text {
+	display: inline-block;
+	vertical-align: top;
+	color: #A6ADB4;
+	font-size: 13px;
+	margin: 2px 0 0 10px;
+}
