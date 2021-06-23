@@ -162,10 +162,11 @@
 	font-size: 13px;
 }
 .soc-media {
-	margin: 56px 139px 0 0;
+	margin: 56px 0 0 309px;
 	display: inline-block;
 	vertical-align: top;
 }
 .soc-icon {
 	display: inline-block;
+	margin-right: 32px;
 }
